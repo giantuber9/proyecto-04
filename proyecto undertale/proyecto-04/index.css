@@ -1,0 +1,267 @@
+#fondo {
+    background-color: black;
+}
+
+picture {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+p span {
+    color:  yellow;
+}
+
+#empezar {
+    text-align: center;
+    list-style: none;
+}
+
+#empezar li {
+    display: inline-block; 
+    padding: 20px;
+    color: white;
+}
+
+.boton {
+    text-decoration: none; /* Eliminamos el subrayado del enlace */
+    color: #fff;
+    border: 2px solid white;
+    padding: 10px; /* margen interior */
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.boton:hover { /* pseudoclase hover se activa cuando el mouse está por encima del elemento */
+    background-color: yellow;
+    color: #000;
+}
+
+#fondo2 {
+    background-color: black;
+}
+
+.texto1 {
+    text-align: center;
+    color: white;
+}
+
+#continuar1 {
+    text-align: center;
+    list-style: none;
+}
+
+#continuar1 li {
+    display: inline-block; 
+    padding: 20px;
+    color: white;
+}
+
+.boton2 {
+    text-decoration: none; /* Eliminamos el subrayado del enlace */
+    color: #fff;
+    border: 2px solid white;
+    padding: 10px; /* margen interior */
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.boton2:hover { /* pseudoclase hover se activa cuando el mouse está por encima del elemento */
+    background-color: yellow;
+    color: #000;
+}
+
+.dibujo1 {
+    width: 450px;
+}
+
+#fondo3 {
+    background-color: black;
+}
+
+.texto2 {
+    text-align: center;
+    color: white;
+}
+
+.boton3 {
+    text-decoration: none; /* Eliminamos el subrayado del enlace */
+    color: #fff;
+    border: 2px solid white;
+    padding: 10px; /* margen interior */
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.boton3:hover { /* pseudoclase hover se activa cuando el mouse está por encima del elemento */
+    background-color: yellow;
+    color: #000;
+}
+
+.dibujo2 {
+    width: 450px;
+}
+
+#continuar2 {
+    text-align: center;
+    list-style: none;
+}
+
+#continuar2 li {
+    display: inline-block; 
+    padding: 20px;
+    color: white;
+}
+
+#fondo4 {
+    background-color: black;
+}
+
+.texto3 {
+    text-align: center;
+    color: white;
+}
+
+.boton4 {
+    text-decoration: none; /* Eliminamos el subrayado del enlace */
+    color: #fff;
+    border: 2px solid white;
+    padding: 10px; /* margen interior */
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.boton4:hover { /* pseudoclase hover se activa cuando el mouse está por encima del elemento */
+    background-color: yellow;
+    color: #000;
+}
+
+.dibujo3 {
+    width: 450px;
+}
+
+#continuar3 {
+    text-align: center;
+    list-style: none;
+}
+
+#continuar3 li {
+    display: inline-block; 
+    padding: 20px;
+    color: white;
+}
+
+#fondo5 {
+    background-color: black;
+}
+
+.texto4 {
+    text-align: center;
+    color: white;
+}
+
+.boton5 {
+    text-decoration: none; /* Eliminamos el subrayado del enlace */
+    color: #fff;
+    border: 2px solid white;
+    padding: 10px; /* margen interior */
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.boton5:hover { /* pseudoclase hover se activa cuando el mouse está por encima del elemento */
+    background-color: yellow;
+    color: #000;
+}
+
+#continuar4 {
+    text-align: center;
+    list-style: none;
+}
+
+#continuar4 li {
+    display: inline-block; 
+    padding: 20px;
+    color: white;
+}
+
+#fondo6 {
+    background-color: black;
+}
+
+.texto5 {
+    text-align: center;
+    color: white;
+}
+
+.boton6 {
+    text-decoration: none; /* Eliminamos el subrayado del enlace */
+    color: #fff;
+    border: 2px solid white;
+    padding: 10px; /* margen interior */
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.boton6:hover { /* pseudoclase hover se activa cuando el mouse está por encima del elemento */
+    background-color: yellow;
+    color: #000;
+}
+
+#continuar5 {
+    text-align: center;
+    list-style: none;
+}
+
+#continuar5 li {
+    display: inline-block; 
+    padding: 20px;
+    color: white;
+}
+
+#fondo7 {
+    background-color: black;
+}
+
+.texto6 {
+    text-align: center;
+    color: white;
+}
+
+.boton7 {
+    text-decoration: none; /* Eliminamos el subrayado del enlace */
+    color: #fff;
+    border: 2px solid white;
+    padding: 10px; /* margen interior */
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.boton7:hover { /* pseudoclase hover se activa cuando el mouse está por encima del elemento */
+    background-color: yellow;
+    color: #000;
+}
+
+#continuar6 {
+    text-align: center;
+    list-style: none;
+}
+
+#continuar6 li {
+    display: inline-block; 
+    padding: 20px;
+    color: white;
+}
+
+.dibujo4 {
+    width: 450px;
+}
